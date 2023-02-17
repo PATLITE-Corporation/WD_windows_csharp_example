@@ -4,6 +4,10 @@ The outline of the sample program for controlling WDR-LE-Z2-PRO(-L) by socket co
 
 The purpose of this program is to control Windows in Csharp language.
 
+If you have any enquiries about sample source code or our products, please contact us from below the URL.
+
+< https://www.patlite.com/contact/english/input.html >
+
 ![WD_ProductImages](https://user-images.githubusercontent.com/86467048/208596629-0d4ac589-b3d7-4504-9342-1bf73eaf4477.jpg)
 
 
